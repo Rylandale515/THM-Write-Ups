@@ -1,0 +1,30 @@
+# === Temp & Swap Files ===
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# === System Metadata Files ===
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# === Screenshot Editing Junk ===
+*.xcf
+*.psd
+
+# === Compressed Files ===
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+
+# === Logs and PCAPs ===
+*.log
+*.pcap
+*.pcapng
+
+# === Secrets or Output Files ===
+secrets.txt
+output.txt
