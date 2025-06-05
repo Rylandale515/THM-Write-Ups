@@ -50,9 +50,7 @@ Each room will include:
 
 | Room Name                    | Difficulty | Tags                   | Status     |
 |-----------------------------|------------|------------------------|------------|
-| [Intro to SOC](writeups/intro-to-soc.md) | Easy       | #BlueTeam, #SOC         | ✅ Completed |
-| [Simple CTF](writeups/simple-ctf.md)     | Easy       | #CTF, #Linux, #Enum     | ✅ Completed |
-| [Basic Pentesting](writeups/basic-pentesting.md) | Medium | #RedTeam, #Web, #Linux | 🚧 In Progress |
+| [Metasploit: Introduction] | Easy        | #Linux                 | 🚧 In Progress |
 
 ---
 
