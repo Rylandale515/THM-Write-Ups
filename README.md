@@ -20,16 +20,16 @@ Each write-up includes step-by-step methodology, lessons learned, and real-world
 
 ## 🗂️ Repository Structure
 
-tryhackme-writeups/
-│
-├── writeups/
-│ ├── room-name.md
-│ └── ...
-├── assets/
-│ └── images/
-├── .gitignore
-├── LICENSE
-└── README.md
+tryhackme-writeups/  
+│  
+├── writeups/  
+│ ├── room-name.md  
+│ └── ...  
+├── assets/  
+│ └── images/  
+├── .gitignore  
+├── LICENSE  
+└── README.md  
 
 ---
 
