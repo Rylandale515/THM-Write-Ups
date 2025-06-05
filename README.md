@@ -46,6 +46,16 @@ Each room will include:
 
 ---
 
+## 🗂️ Index of Write-Ups
+
+| Room Name                    | Difficulty | Tags                   | Status     |
+|-----------------------------|------------|------------------------|------------|
+| [Intro to SOC](writeups/intro-to-soc.md) | Easy       | #BlueTeam, #SOC         | ✅ Completed |
+| [Simple CTF](writeups/simple-ctf.md)     | Easy       | #CTF, #Linux, #Enum     | ✅ Completed |
+| [Basic Pentesting](writeups/basic-pentesting.md) | Medium | #RedTeam, #Web, #Linux | 🚧 In Progress |
+
+---
+
 ## ⚖️ License
 
 Content is licensed under **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**  
