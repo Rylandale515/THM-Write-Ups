@@ -48,9 +48,9 @@ Each room will include:
 
 ## 🗂️ Index of Write-Ups
 
-| Room Name                    | Difficulty | Tags                   | Status     |
-|-----------------------------|------------|------------------------|------------|
-| [Metasploit: Introduction] | Easy        | #Linux                 | 🚧 In Progress |
+| Room Name                    | Difficulty | Tags                   | Status     | Link |
+|-----------------------------|------------|------------------------|------------|-------|
+| Metasploit: Introduction | Easy        | #Linux                 | 🚧 In Progress | [View](writeups/Metasploit-Introduction.md) |
 
 ---
 
