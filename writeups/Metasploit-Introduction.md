@@ -1,7 +1,4 @@
 # 🛠️ Introduction to Metasploit – TryHackMe Room Write-Up
-
-![Metasploit SSH Module Screenshot](../assets/introduction-to-metasploit/ssh_login_info.png)
-
 ---
 
 ## 📘 Room Overview
@@ -47,7 +44,9 @@ I already knew most of the parameter commands like set and show options, but thi
 
 These will absolutely make working across multiple modules and targets cleaner and more efficient. Using setg for values like RHOSTS and LPORT saves time when switching contexts — a game-changer for more complex labs.
 
-##🔍 Key Takeaways
+---
+
+## 🔍 Key Takeaways
 | Command    | Purpose     |
 |------------|-------------|
 | use [module] | Enter the context of a module |
@@ -59,11 +58,17 @@ These will absolutely make working across multiple modules and targets cleaner a
 | exploit -z |	Launch the exploit and background the session |
 | sessions -i |	Interact with an active Meterpreter session |
 
-📸 Screenshot
+---
+
+## 📸 Screenshot
+
+![Metasploit SSH Module Screenshot](../assets/introduction-to-metasploit/ssh_login_info.png)
 
 (This screenshot shows how I used use and info to gather module details, including the publisher.)
 
-📦 Module Explored
+---
+
+## 📦 Module Explored
 - auxiliary/scanner/ssh/ssh_login
 - exploit/windows/smb/ms17_010_eternalblue
 - auxiliary/scanner/smb/smb_ms17_010
