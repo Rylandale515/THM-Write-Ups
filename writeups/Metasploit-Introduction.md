@@ -72,3 +72,10 @@ These will absolutely make working across multiple modules and targets cleaner a
 - auxiliary/scanner/ssh/ssh_login
 - exploit/windows/smb/ms17_010_eternalblue
 - auxiliary/scanner/smb/smb_ms17_010
+
+---
+
+## ✅ Final Thoughts
+This was a solid introductory room. It wasn’t just about executing exploits — it was about understanding how Metasploit is structured, how context affects configuration, and how to use the tool responsibly and effectively. This gave me confidence moving forward into more advanced rooms in the Metasploit path.
+
+Part 1 of this amazing tool is now done — and I'm excited to dive into Part 2!
