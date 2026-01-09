@@ -50,7 +50,7 @@ Each room will include:
 
 | Room Name                    | Difficulty | Tags                   | Status     | Link |
 |-----------------------------|------------|------------------------|------------|-------|
-| Metasploit: Introduction    | Easy       | #Metasploit #BlueTeam  | ✅ Completed | [View](writeups/introduction-to-metasploit.md) |
+| Metasploit: Introduction    | Easy       | #Metasploit #BlueTeam  | ✅ Completed | [View](writeups/Metasploit-Introduction.md) |
 | Metasploit: Exploitation    | Easy       | #Metasploit #BlueTeam  | 🚧 In Progress |  |
 
 ---
