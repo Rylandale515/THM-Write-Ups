@@ -15,8 +15,8 @@
 ## 🎯 Learning Objectives
 
 - Understand the structure of Metasploit modules and their purposes
-- Navigate and operate inside `msfconsole`
-- Use key commands: `search`, `use`, `set`, `setg`, `show options`, `exploit`, and `sessions`
+- Navigate and operate inside `msfconsole.`
+- Use key commands: `search`, `use`, `set`, `setg`, `show options`, `exploit`, and `sessions.`
 - Recognize different payload types (singles vs staged)
 - Properly set context-specific vs global values in the console
 
@@ -24,9 +24,9 @@
 
 ## 🧠 My Thought Process
 
-When going into this room, I was already fairly comfortable with Metasploit basics thanks to prior work on Hack The Box. That gave me a solid foundation to build from.
+When I entered this room, I was already fairly comfortable with Metasploit basics, thanks to my prior work on Hack The Box. That provided me with a solid foundation to build upon.
 
-What stood out in this room was the **clean, structured flow** — from launching `msfconsole`, to understanding module types, to finally running an actual exploit. Even though this room was heavy on reading, it was justified by how expansive Metasploit truly is. This tool is a **powerhouse**, and I know I’ve barely scratched the surface.
+What stood out in this room was the **clean, structured flow** — from launching `msfconsole`, to understanding module types, to finally running an actual exploit. Although this room was heavy on reading, it was justified by the fact that Metasploit is truly expansive. This tool is a **powerhouse**, and I know I've barely scratched the surface.
 
 One example of something I used from this experience was when I located the publisher of the `ssh_login` module. I simply ran:
 
@@ -35,7 +35,7 @@ use auxiliary/scanner/ssh/ssh_login
 info
 ```
 
-And the console displayed the author (todb@metasploit.com), license info, and rank.
+The console displayed the author (todb@metasploit.com), license information, and rank.
 
 I already knew most of the parameter commands like set and show options, but this room introduced me to:
 - unset
@@ -76,6 +76,6 @@ These will absolutely make working across multiple modules and targets cleaner a
 ---
 
 ## ✅ Final Thoughts
-This was a solid introductory room. It wasn’t just about executing exploits — it was about understanding how Metasploit is structured, how context affects configuration, and how to use the tool responsibly and effectively. This gave me confidence moving forward into more advanced rooms in the Metasploit path.
+This room was a great introduction to Metasploit. It wasn't just about executing exploits — it was about understanding how Metasploit is structured, how context affects configuration, and how to use the tool responsibly and effectively. Helping to build my confidence as I move forward into more advanced rooms in the Metasploit path.
 
-Part 1 of this amazing tool is now done — and I'm excited to dive into Part 2!
+Part 1 of this fantastic tool is now done — and I'm excited to dive into Part 2!
