@@ -52,7 +52,7 @@ Each room will include:
 |-----------------------------|------------|------------------------|------------|-------|
 | Metasploit: Introduction    | Easy       | #Metasploit #BlueTeam  | ✅ Completed | [View](writeups/Metasploit-Introduction.md) |
 | Metasploit: Exploitation    | Easy       | #Metasploit #BlueTeam  | ✅ Completed | [View](writeups/Metasploit-Exploitation.md) |
-🚧 In Progress
+| Metasploit: Meterpreter     | Easy       | #Metasploit #BlueTeam  | 🚧 In Progress |    |
 ---
 
 ## ⚖️ License
