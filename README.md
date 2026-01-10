@@ -1,20 +1,17 @@
 # TryHackMe Write-Ups by Rylan Stalnaker
 
-📁 A growing repository of hands-on TryHackMe walkthroughs as I work through the SOC Level 1 and Cybersecurity 101 paths.
+## About
+I’m pursuing a B.S. in Cybersecurity and Information Assurance at WGU and building practical defensive security skills through hands-on labs.
 
----
+This repository contains structured walkthroughs aligned to SOC workflows—focused on investigation methodology, network/service enumeration, adversary tooling awareness, and defensive takeaways. Each write-up documents objectives, approach, evidence (screenshots/outputs), and lessons learned.
 
-## 🎯 About
-
-I'm currently pursuing my Bachelor's in Cybersecurity and Information Assurance at WGU, with CompTIA A+, Network+, Security+, and other industry certifications. This repository reflects my hands-on progress in cybersecurity labs, particularly in:
-
-- Incident Detection & Response
-- Network Enumeration
-- Exploitation & Privilege Escalation
-- Threat Intelligence
-- Linux & Windows Security Fundamentals
-
-Each write-up includes step-by-step methodology, lessons learned, and real-world parallels.
+## Skills Demonstrated (curated)
+- Investigation methodology and structured documentation
+- Network and service enumeration fundamentals
+- Adversary tooling familiarity (lab context)
+- Privilege escalation awareness (defensive perspective)
+- Translating technical findings into clear takeaways
+- Consistent reporting format (repeatable process)
 
 ---
 
