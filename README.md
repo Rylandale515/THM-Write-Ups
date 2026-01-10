@@ -6,7 +6,7 @@
 
 ## 🎯 About
 
-I'm currently pursuing my Bachelor's in Cybersecurity and Information Assurance at WGU, with CompTIA A+, Network+, and Security+ certifications. This repository reflects my hands-on progress in cybersecurity labs, particularly in:
+I'm currently pursuing my Bachelor's in Cybersecurity and Information Assurance at WGU, with CompTIA A+, Network+, Security+, and other industry certifications. This repository reflects my hands-on progress in cybersecurity labs, particularly in:
 
 - Incident Detection & Response
 - Network Enumeration
