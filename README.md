@@ -1,7 +1,7 @@
 # TryHackMe Write-Ups by Rylan Stalnaker
 
 ## About
-I’m pursuing a B.S. in Cybersecurity and Information Assurance at WGU and building practical defensive security skills through hands-on labs.
+I have just achieved my B.S. in Cybersecurity and Information Assurance at WGU and am building practical defensive security skills through hands-on labs through the platform TryHackMe.
 
 This repository contains structured walkthroughs aligned to SOC workflows—focused on investigation methodology, network/service enumeration, adversary tooling awareness, and defensive takeaways. Each write-up documents objectives, approach, evidence (screenshots/outputs), and lessons learned.
 
