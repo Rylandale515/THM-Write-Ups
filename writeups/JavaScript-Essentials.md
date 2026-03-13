@@ -43,7 +43,7 @@ Because JavaScript executes in the browser, attackers can easily inspect and man
 
 ## Variables
 
-Variables act as containers that store values which can later be referenced in a script.
+Variables act as containers that store values, which can later be referenced in a script.
 
 JavaScript supports three primary variable declarations:
 
@@ -57,7 +57,7 @@ Block-scoped variables provide better control over variable visibility and help 
 
 ## Data Types
 
-JavaScript supports multiple data types including:
+JavaScript supports multiple data types, including:
 
 - String
 - Number
@@ -72,7 +72,7 @@ Understanding data types is important because improper validation of input data 
 
 ## Functions
 
-Functions group reusable blocks of code that perform specific tasks.
+A function is a reusable block of code that performs a specific task.
 
 Example use cases include:
 
@@ -102,7 +102,7 @@ Common loop types include:
 - `while`
 - `do...while`
 
-These structures allow developers to process lists of data efficiently.
+These structures enable developers to process lists of data efficiently.
 
 ---
 
@@ -120,7 +120,7 @@ Understanding this process is essential when analyzing web application behavior.
 
 # Task 3 — JavaScript Overview
 
-JavaScript is an **interpreted language**, meaning it runs directly in the browser without needing compilation.
+JavaScript is an **interpreted language**, meaning it runs directly in the browser without needing to be compiled.
 
 Using browser developer tools such as the **Chrome Console**, JavaScript code can be executed interactively.
 
@@ -184,11 +184,11 @@ Advantages include:
 <script src="script.js"></script>
 ```
 
-External scripts are loaded using the **`src` attribute** within the script tag.
+External scripts are loaded using the **`src` attribute** in the script tag.
 
 ---
 
-# Task 5 — Abusing Dialogue Functions
+# Tasing Dialogue Functions
 
 JavaScript includes several built-in dialogue functions:
 
@@ -212,7 +212,7 @@ alert("Hello THM");
 
 ## Prompt
 
-Requests input from the user.
+An example of user input.
 
 ```
 name = prompt("What is your name?");
@@ -239,7 +239,7 @@ Attackers may abuse these features to:
 - Trick users into executing malicious scripts
 - Deliver phishing payloads
 
-Example malicious behavior could include creating hundreds of alert pop-ups to disrupt user interaction.
+An example of malicious behavior could include creating hundreds of alert pop-ups to disrupt user interaction.
 
 ---
 
@@ -259,9 +259,9 @@ if (age >= 18) {
 }
 ```
 
-From a security standpoint, client-side authentication logic is **not secure**, since users can manipulate JavaScript within the browser.
+From a security standpoint, client-side authentication logic is **not secure**, since users can manipulate JavaScript in the browser.
 
-For example, if login validation exists entirely in JavaScript, attackers can modify the code or bypass the check entirely.
+For example, if logibecauseation exists entirely in JavaScript, attackers can modify the code or bypass the check entirely.
 
 ---
 
@@ -293,7 +293,7 @@ Example obfuscated code:
 (function(_0x114713,_0x2246f2){...})();
 ```
 
-While obfuscation slows down attackers, it **does not provide true security** because the logic can still be reverse engineered.
+While obfuscation slows down attackers, it **does not provide true security** because the logic can still be reverse-engineered.
 
 Tools exist to **deobfuscate and reformat JavaScript** for analysis.
 
@@ -343,7 +343,7 @@ Because JavaScript runs in the browser, attackers can easily view the source cod
 Although not a security control, minification and obfuscation can:
 
 - Improve application performance
-- Increase difficulty for attackers analyzing the code
+- Increase the difficulty for attackers in analyzing the code
 
 ---
 
@@ -356,8 +356,8 @@ Key takeaways include:
 - JavaScript enables dynamic web application functionality
 - Client-side scripts can be inspected and manipulated by attackers
 - Dialogue functions and control flow logic can be abused if implemented insecurely
-- Minified or obfuscated scripts can still be reverse engineered
-- Secure coding practices are essential to reduce attack surface
+- Minified or obfuscated scripts can still be reverse-engineered
+- Secure coding practices are essential to reduce the attack surface
 
 Understanding JavaScript from both a **developer and attacker perspective** is an important step in mastering web application security.
 
@@ -388,6 +388,6 @@ THM{YOU_HAVE_JUST_DELETED_A_USER}
 
 This room provided a solid introduction to how JavaScript operates within web applications and how attackers may interact with client-side code.
 
-Understanding these concepts is essential when performing web application security assessments because many vulnerabilities originate from improperly implemented client-side logic.
+Understanding these concepts is essential when performing web application security assessments, as many vulnerabilities stem from improperly implemented client-side logic.
 
 Developers must assume that **all client-side code can be inspected and modified by attackers**, and therefore enforce security controls on the server side as well.
