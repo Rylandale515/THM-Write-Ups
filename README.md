@@ -15,6 +15,7 @@ The goal of this repository is to reinforce **SOC-style investigative thinking**
 ## Learning Progress
 
 SOC Level 1 Path Progress: 30%
+
 Cybersecurity 101 Path Progress: 68%
 
 ## Skills Demonstrated (Curated)
