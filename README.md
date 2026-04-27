@@ -67,9 +67,17 @@ This format emphasizes investigation workflow and documentation discipline.
 
 | Room Name | Difficulty | Tags | Status | Link |
 |-----------|------------|------|--------|------|
-| Metasploit: Introduction | Easy | #Metasploit #BlueTeam | ✅ Completed | [View](writeups/Metasploit-Introduction.md) |
-| Metasploit: Exploitation | Easy | #Metasploit #BlueTeam | ✅ Completed | [View](writeups/Metasploit-Exploitation.md) |
-| Metasploit: Meterpreter | Easy | #Metasploit #BlueTeam | 🚧 In Progress | |
+| Metasploit: Introduction | Easy | #Metasploit #RedTeam | ✅ Completed | [View](writeups/Metasploit-Introduction.md) |
+| Metasploit: Exploitation | Easy | #Metasploit #RedTeam | ✅ Completed | [View](writeups/Metasploit-Exploitation.md) |
+| Metasploit: Meterpreter | Easy | #Metasploit #RedTeam | 🚧 In Progress | |
+| SQL: Fundamentals | Easy | #SQL | 🚧 In Progress | |
+| Blue | Easy | #EternalBlue #RedTeam | 🚧 In Progress | |
+| Burp Suite: Basics | Easy | #BurpSuite #RedTeam | 🚧 In Progress | |
+| Hydra | Easy | #Hydra #RedTeam | 🚧 In Progress | |
+| JavaScript: Essentials | Easy | #JavaScript | 🚧 In Progress | |
+| Shells: Overview | Easy | #Bash #Shells | 🚧 In Progress | |
+| Web Application: Basics | Easy | #HTML #JavaScript | 🚧 In Progress | |
+| SQLMap: The Basics | Easy | #SQLMap #RedTeam | 🚧 In Progress | |
 
 ---
 
