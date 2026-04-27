@@ -69,14 +69,14 @@ This format emphasizes investigation workflow and documentation discipline.
 |-----------|------------|------|--------|------|
 | Metasploit: Introduction | Easy | #Metasploit #RedTeam | ✅ Completed | [View](writeups/Metasploit-Introduction.md) |
 | Metasploit: Exploitation | Easy | #Metasploit #RedTeam | ✅ Completed | [View](writeups/Metasploit-Exploitation.md) |
-| Metasploit: Meterpreter | Easy | #Metasploit #RedTeam | 🚧 In Progress | |
-| SQL: Fundamentals | Easy | #SQL | 🚧 In Progress | |
-| Blue | Easy | #EternalBlue #RedTeam | 🚧 In Progress | |
-| Burp Suite: Basics | Easy | #BurpSuite #RedTeam | 🚧 In Progress | |
-| Hydra | Easy | #Hydra #RedTeam | 🚧 In Progress | |
-| JavaScript: Essentials | Easy | #JavaScript | 🚧 In Progress | |
-| Shells: Overview | Easy | #Bash #Shells | 🚧 In Progress | |
-| Web Application: Basics | Easy | #HTML #JavaScript | 🚧 In Progress | |
+| Metasploit: Meterpreter | Easy | #Metasploit #RedTeam | ✅ Completed | [View](writeups/Metasploit-Meterpreter.md) |
+| SQL: Fundamentals | Easy | #SQL | ✅ Completed | [View](writeups/SQL-Fundamentals.md) |
+| Blue | Easy | #EternalBlue #RedTeam | ✅ Completed | [View](writeups/Blue.md) |
+| Burp Suite: Basics | Easy | #BurpSuite #RedTeam | ✅ Completed | [View](writeups/Burp-Suite-Basics.md) |
+| Hydra | Easy | #Hydra #RedTeam | ✅ Completed | [View](writeups/Hydra.md) |
+| JavaScript: Essentials | Easy | #JavaScript | ✅ Completed | [View](writeups/JavaScript-Essentials.md) |
+| Shells: Overview | Easy | #Bash #Shells | ✅ Completed | [View](writeups/Shells-Overview.md) |
+| Web Application: Basics | Easy | #HTML #JavaScript | ✅ Completed | [View](writeups/Web-Application-Basics.md) |
 | SQLMap: The Basics | Easy | #SQLMap #RedTeam | 🚧 In Progress | |
 
 ---
