@@ -8,9 +8,7 @@ This repository documents hands-on labs covering both offensive techniques and t
 
 ## Learning Progress
 
-SOC Level 1 Path Progress: 30%
-
-Cybersecurity 101 Path Progress: 68%
+Cybersecurity 101 Path Progress: 69%
 
 ## Skills Demonstrated (Curated)
 
@@ -43,17 +41,25 @@ tryhackme-writeups/
 
 ## 📝 Write-Up Format
 
-Each room follows a consistent structure:
+Write-ups follow one of two structured formats depending on the room type.
+
+### Technical Exploitation Rooms (e.g., Metasploit, Blue, Hydra):
 
 - Objectives
 - Tools Used
-- Enumeration
+- Enumeration & Reconnaissance
 - Exploitation
-- Privilege Escalation
+- Post-Exploitation / Privilege Escalation
+- Defensive Takeaways
 - Key Takeaways
-- Screenshots
 
-This format emphasizes investigation workflow and documentation discipline.
+### Concept & Fundamentals Rooms (e.g., SQL, JavaScript, Web Application Basics):
+
+- Objectives
+- Key Concepts Covered
+- Practical Application
+- Security Relevance
+- Key Takeaways
 
 ---
 
