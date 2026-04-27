@@ -2,13 +2,7 @@
 
 ## About
 
-I recently earned my **B.S. in Cybersecurity and Information Assurance from Western Governors University** and am continuing to build practical defensive security skills through hands-on labs on the TryHackMe platform.
-
-This repository contains structured walkthroughs aligned to **Security Operations Center (SOC) workflows**, focused on investigation methodology, service enumeration, adversary tooling awareness, and defensive analysis.
-
-Each write-up documents objectives, investigative approach, evidence (screenshots/outputs), and lessons learned.
-
-The goal of this repository is to reinforce **SOC-style investigative thinking**, rather than simply solving challenges.
+This repository documents hands-on labs covering both offensive techniques and their defensive implications. Understanding attacker tooling and methodology directly informs SOC detection and triage work.
 
 ---
 
